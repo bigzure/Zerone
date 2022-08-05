@@ -1,2 +1,2 @@
-# Zerone
+# Zerone.js
 Zerone
