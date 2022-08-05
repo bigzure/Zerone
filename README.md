@@ -1,2 +1,2 @@
 # Zerone.js
-Zerone
+Scaffolding to start Backend projects faster
